@@ -17,7 +17,7 @@
 
 </div>
 
-### I just like reading about a random math concept in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
+### I just like reading about random math concepts in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
 
 
 ## Tools I use:
