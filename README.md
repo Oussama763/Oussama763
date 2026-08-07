@@ -1,4 +1,7 @@
-## Hi there 👋
+## I am Oussama, an AI engineering student, and more importantly I am that guy who's always ready for a long conversation about mathematics.
+
+![Check out this cool thing right here! : Lorenz Attractor✨](./assets/lorenz.gif)
+ 
 
 <!--
 **Oussama763/Oussama763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
