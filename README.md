@@ -23,16 +23,16 @@
 ## Tools I use:
 
 <p align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="60" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="120" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="60" />
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="60" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="60" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="110" />
 </p>
 
 <p align="left">
-    <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white" height="60" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="60" />
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="60" />
+    <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white" height="120" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="120" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="120" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="60" />
 </p>
 
