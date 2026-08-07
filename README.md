@@ -4,10 +4,16 @@
 <div align="center">
   <img src="./assets/lorenz.gif" alt="Check out this cool thing right here! : Lorenz Attractor ✨"  width="1000" />
 </div>
+<div align="center">
 
 ## Hi there, this is Oussama 
+
+</div>
+<div align="center">
+
 ### AI Engineering Student💻 | Math Enthusiast🤩
 
+</div>
 ### Tools I use:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -17,11 +23,11 @@
 ![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Kali linux](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Kali linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### >whoami
+### >whoami
 
-I just like reading about a random math concept in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
+#### I just like reading about a random math concept in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
 <!--
 **Oussama763/Oussama763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
