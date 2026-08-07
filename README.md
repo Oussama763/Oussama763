@@ -7,6 +7,7 @@
 </div>
 <div align="center">
 
+## >whoami
 ## Hi there, this is Oussama 
 
 </div>
@@ -16,20 +17,20 @@
 
 </div>
 
-### Tools I use:
+### I just like reading about a random math concept in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br>
-![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Kali linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### >whoami
+## Tools I use:
 
-#### I just like reading about a random math concept in my leisure time☕, And I am that guy who is always ready for a long conversation about groupe theory🤓😜
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="40"> <br>
+<img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40">
+
 <!--
 **Oussama763/Oussama763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
