@@ -1,7 +1,7 @@
 ## I am Oussama, an AI engineering student, and more importantly I am that guy who's always ready for a long conversation about mathematics.
 
 <div align="center">
-  <img src="./assets/lorenz.gif" alt="Check out this cool thing right here! : Lorenz Attractor ✨"  width="500" />
+  <img src="./assets/lorenz.gif" alt="Check out this cool thing right here! : Lorenz Attractor ✨"  width="600" />
 </div>
 
  
