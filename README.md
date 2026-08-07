@@ -1,6 +1,7 @@
 ## Check out this cool thing right here!😯✨ 
 
 ### Lorenz Attractor✨ 
+
 <div align="center">
   <img src="./assets/lorenz.gif" alt="Check out this cool thing right here! : Lorenz Attractor ✨"  width="1000" />
 </div>
@@ -14,12 +15,13 @@
 ### AI Engineering Student💻 | Math Enthusiast🤩
 
 </div>
+
 ### Tools I use:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br>
 ![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
