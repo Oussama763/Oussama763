@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/django-092E20?logo=django&logoColor=white" width="120" />
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white" width="70" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="85" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="120" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" width="120" />
 </p>
 
 <!--
