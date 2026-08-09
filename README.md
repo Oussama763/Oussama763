@@ -1,6 +1,6 @@
 ## Check out this cool thing right here!😯✨ 
 
-### ![stars](./assets/Sparkles.webp) Lorenz Attractor ![stars](./assets/Sparkles.webp) 
+### Lorenz Attractor✨ 
 
 <div align="center">
   <img src="./assets/lorenz.gif" alt="Check out this cool thing right here! : Lorenz Attractor ✨"  width="1000" />
