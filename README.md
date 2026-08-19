@@ -22,17 +22,17 @@
 
 ## Tools I use:
 
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&labelColor=FFCD00)&nbsp;
-![Static Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)&nbsp;
-![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy)&nbsp;
-![Static Badge](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=Scikit-learn&labelColor=000000)&nbsp;
-![Static Badge](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=000000)&nbsp;
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&labelColor=FFCD00)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=Scikit-learn&labelColor=000000)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=000000)&nbsp;&nbsp;
 
 
-![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&labelColor=000000)&nbsp;
-![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&labelColor=000000)&nbsp;
-![Static Badge](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&labelColor=000000)&nbsp;
-![Static Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=000000)&nbsp;
+![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&labelColor=000000)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&labelColor=000000)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=Git&labelColor=000000)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=000000)&nbsp;&nbsp;
 
 <!--
 **Oussama763/Oussama763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
