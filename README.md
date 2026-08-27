@@ -33,6 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/zshell-F15A24?style=for-the-badge&logo=zsh&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=FFFFFF)&nbsp;&nbsp;
 
 <!--
