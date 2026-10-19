@@ -1,5 +1,6 @@
 ## Check out this cool thing right here!😯✨ 
 
+
 ### Lorenz Attractor✨ 
 
 <div align="center">
@@ -26,10 +27,11 @@
 ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=FFFFFF)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF)&nbsp;&nbsp;
+
+
 ![Static Badge](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=FFFFFF)&nbsp;&nbsp;
-
-
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;&nbsp;
