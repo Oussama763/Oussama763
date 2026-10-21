@@ -35,8 +35,8 @@
 ![Static Badge](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF)&nbsp;&nbsp;
-![Static Badge](https://img.shields.io/badge/Fish%20shell-34C534?style=for-the-badge&logo=fish%20shell&logoColor=34C534&labelColor=FFFFFF)&nbsp;&nbsp;
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch%20Linux&logoColor=1793D1&labelColor=FFFFFF)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/fish%20shell-34C534?style=for-the-badge&logo=fish%20shell&logoColor=FFFFFF)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=FFFFFF)&nbsp;&nbsp;
 
 <!--
 **Oussama763/Oussama763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
