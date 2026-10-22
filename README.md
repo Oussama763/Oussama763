@@ -24,6 +24,7 @@
 ## Tools I use:
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=FFFFFF)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=FFFFFF)&nbsp;&nbsp;
